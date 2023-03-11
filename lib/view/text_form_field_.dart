@@ -61,7 +61,7 @@ class _TextBoxHomeWork2State extends State<TextBoxHomeWork2> {
               height: MediaQuery.of(context).size.height * .6,
               width: 350,
               margin: EdgeInsets.only(top: 220, right: 30, left: 30),
-              child: Column(
+              child: Column( 
                 children: [
                   SizedBox(
                     height: 30,
